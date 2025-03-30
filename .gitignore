@@ -1,0 +1,42 @@
+# Ignore build artifacts
+/build/
+nbproject/private/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Ignore compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore NetBeans IDE metadata
+nbproject/private/
+*.iml
+*.ipr
+*.iws
+
+# Ignore logs and temp files
+*.log
+*.tmp
+hs_err_pid*
+.DS_Store
+Thumbs.db
+
+# Ignore dependency caches
+/.gradle/
+/.mvn/
+/target/
+/out/
+
+# Ignore IntelliJ IDEA files (if used)
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.vscode/
+*.swp
+*.swo
