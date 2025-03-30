@@ -22,14 +22,14 @@ A **Learning Management System (LMS)** built using **Java** and a **MySQL databa
 ## 📸 Screenshots
 
 <div style="display: flex;">
-  <img src="assets/1.png" width="300" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/2.png" width="300" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/3.png" width="300" />
+  <img src="assets/1.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="assets/2.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="assets/3.png" width="250" />
 </div>
 <div style="display: flex;">
-  <img src="assets/4.png" width="300" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/5.png" width="300" />&nbsp;&nbsp;&nbsp;
-  <img src="assets/6.png" width="300" />
+  <img src="assets/4.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="assets/5.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="assets/6.png" width="250" />
 </div>
 
 ## 🛠️ Installation
